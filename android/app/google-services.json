@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011653655532",
+    "project_id": "callify-97a75",
+    "storage_bucket": "callify-97a75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011653655532:android:2c6ccbff52a4db63f91ec9",
+        "android_client_info": {
+          "package_name": "com.example.video_call_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4UaFHdyrKkC-TNLlWtqDxIOeZ8QuCR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
